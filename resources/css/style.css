@@ -4,10 +4,9 @@ body {
     text-align: center;
 }
 
-h1 {
+.hero h1 {
     font-weight: normal;
     font-size: 50px;
-    text-align: center;
     color: white;
 }
 
@@ -16,18 +15,19 @@ h1 {
     font-size: 16px
 }
 
-h2 {
+.sections h2 {
     font-weight: 300;
     font-size: 42px;
     color: white;
 }
 
-p {
+.sections p {
     font-size: 21px;
     color: Grey;
 }
 
-footer {
+.footer .copyright {
     color: Grey;
     font-size: 21px;
+    text-align: right;
 }
